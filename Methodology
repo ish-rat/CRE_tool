@@ -1,0 +1,29 @@
+The CRE estimates community resilience to disasters by using small area estimation (SAE) techniques to combine data from several sources and produce high quality estimates:
+
+American Community Survey (ACS) microdata
+Analysis is performed on the individual and household level restricted ACS microdata to determine the number of individual risk factors.
+Population Estimates Program
+We utilize age, sex, and race and ethnicity data from the Census Bureau’s Population Estimates Program.
+The CRE provides estimates of the total number of people living in a community by the number of risk factors. This includes estimates for the following groups.
+
+The number of people with:
+
+0 risk factors (Low risk)
+1-2 risk factors (Medium risk)
+3 or more risk factors (High risk)
+The number of risk factors are determined by examining the following demographic, socioeconomic, and housing characteristics in the ACS microdata. For household level variables, if the household meets the criteria for the risk flag, every individual in the household is receives that risk flag.
+
+Risk Factors
+
+Income-to-Poverty Ratio (IPR) < 130 percent (Household)
+Single or zero caregiver household - only one or no individuals living in the household who are 18-64 (Household)
+Unit-level crowding with >= 0.75 persons per room (Household)
+Communication Barrier defined as:
+No one in the household has received a high school diploma
+No one in the household speaks English “very well”
+Aged 65 years or older
+No one in the household is employed full-time, year-round. The flag is not applied if all residents of the household are aged 65 years or older (Household)
+Disability, at least one serious constraint to significant life activity
+No health insurance coverage
+No vehicle access (Household)
+Households without broadband internet access (Household).
