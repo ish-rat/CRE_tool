@@ -1,3 +1,3 @@
 # CRE tool
 
-CRE tool for community disaster resilience
+Community Resilience Estimates (CRE) Tool.
