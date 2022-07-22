@@ -1,3 +1,3 @@
 # CRE tool
 
-CRE_tool for community disaster resilience
+CRE tool for community disaster resilience
