@@ -1,3 +1,8 @@
-# CRE tool
+# About Community Resilience Estimates Tool 
+The Community Resilience Estimates (CRE) provide an easily understood metric for how at-risk every neighborhood in the United States is to the impacts of disasters, including COVID-19.
 
-Community Resilience Estimates (CRE) Tool.
+In the summer of 2020, the Census Bureau launched a new and innovative data tool for national agencies and local communities, the Community Resilience Estimates (CRE). The CRE tracks how at-risk every single neighborhood in the United States is to the impacts of COVID-19 and other local disasters, by measuring the capacity of individuals and households at absorbing, enduring and recovering from the external stresses of the impacts of a disaster.
+
+From the beginning of the pandemic, the negative effects of COVID-19 have been strongly related to certain individual and household characteristics. With access to granular microdata from the Census Bureau, the CRE maps the risk assessment of local populations down to the neighborhood level and allows national and community leaders to more efficiently respond to emergencies.
+
+As the nation’s leading provider of quality data about its people and economy, the Census Bureau is uniquely positioned to provide the most accurate and timely measures for an individually focused community resilience indicator. We use detailed demographic and economic data about individuals to build these estimates. Similar measures from other institutions rely exclusively on publicly available data which results in higher sampling error, especially for rural areas. The Census Bureau can adapt the estimates as needed to incorporate the latest and most relevant data. Therefore, given our advanced statistical capabilities and having the richest data sources, the Bureau can produce estimates with the most granularity, highest statistical quality, and broadest coverage, while still protecting privacy.
